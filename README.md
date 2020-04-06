@@ -1,3 +1,5 @@
+Project to start experimenting with react based on [React pratical start](https://app.pluralsight.com/library/courses/react-practical-start/table-of-contents)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
