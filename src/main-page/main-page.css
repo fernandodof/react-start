@@ -1,0 +1,14 @@
+.logo {
+    height: 150px;
+}
+
+.subtile {
+    font-style: italic;
+    font-size: x-large;
+    color: #89AB8A;
+}
+
+.featured-house {
+    border-radius: 2px;
+    background-color: #89997F;
+}
